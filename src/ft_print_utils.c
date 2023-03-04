@@ -6,11 +6,11 @@
 /*   By: hsaadi <hsaadi@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/04 07:49:40 by hsaadi            #+#    #+#             */
-/*   Updated: 2022/09/27 16:27:59 by hsaadi           ###   ########.fr       */
+/*   Updated: 2023/03/04 17:46:48 by hsaadi           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "../include/ft_printf.h"
 
 /* Print the char and increment the value of prt for every chat*/
 
